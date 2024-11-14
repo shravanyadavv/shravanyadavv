@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif" width="100%" height="250"/>
+  <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif"  height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Shravan Kumar Yadav Appala</h1>
 <h3 align="center">A passionate Software Developer </h3>
-<img align="right" alt="Coding" width="300"  src="https://i.pinimg.com/736x/f1/74/df/f174df623fd1af96e28b416641b131e6.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="shravanyadavv" /> </p>
 
