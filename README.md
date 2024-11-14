@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.pinimg.com/736x/f1/74/df/f174df623fd1af96e28b416641b131e6.jpg" width="600" height="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Shravan Kumar Yadav Appala</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/56/6e/c6/566ec6e0ea22113f933d3d8a7007bc92.jpg">
